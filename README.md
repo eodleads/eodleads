@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oluwaseun David @eodleads
+- 👋 Hi, I’m Emanuel O. David @eodleads
 - 👀 I’m interested in becoming DevOps engineer
 - 🌱 I’m currently learning to become one @dare.io
 - 💞️ I’m looking to collaborate on anything DevOps related, from Linux, to Azure and all the way to the very top.
